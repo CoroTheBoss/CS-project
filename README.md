@@ -1,3 +1,3 @@
 # CS-project
-project for Foundation of Computer Science
+Foundation of Computer Science project
 + Matteo Corona - Costanza Pagnin
